@@ -166,14 +166,14 @@ h2 {
 }
 
 .greenGradient {
-  background-image: linear-gradient(to right, #12FFF7 0%, #92FE9D 50%);
+  background-image: linear-gradient(to right, #9bf6ff 0%, #caffbf 50%);
   background-size: 200% auto;
   box-shadow: 0 0 20px #eee;
   cursor: pointer;
 }
 
 .blueGradient {
-  background-image: linear-gradient(to right, #B3FFAB 0%, #12FFF7 50%);
+  background-image: linear-gradient(to right, #caffbf 0%, #9bf6ff 50%);
   background-size: 200% auto;
   box-shadow: 0 0 20px #eee;
   cursor: alias;
